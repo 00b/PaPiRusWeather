@@ -9,5 +9,3 @@ https://github.com/PiSupply/PaPiRus
 https://darksky.net/dev/docs
 
 https://github.com/adafruit/Python-Thermal-Printer
-
-f
