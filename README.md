@@ -10,3 +10,4 @@ https://github.com/PiSupply/PaPiRus
 
 https://darksky.net/dev/docs
 
+My setup has cron running the forecast.py every 5 minutes. 
